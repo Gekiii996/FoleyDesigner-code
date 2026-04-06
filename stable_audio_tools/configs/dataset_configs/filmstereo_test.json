@@ -1,0 +1,156 @@
+{
+  "dataset_type": "film_stereo",
+  "datasets": [
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Large/static/Crash_0024/(Vangelis would Approve)left_front!medium.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the left_front at a distant medium , in reverb like Dramatic reverb for cinematic sound.",
+      "motion_type": "static",
+      "movement_str": "left_front!medium.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    },
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Medium/static/Crash_0024/(Medium Plate)left_front!medium.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the left_front at a distant medium , in reverb like Controlled space with metallic echo.",
+      "motion_type": "static",
+      "movement_str": "left_front!medium.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    },
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Small/static/Crash_0024/(clear plant)left_front!medium.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the left_front at a distant medium , in reverb like Bright, tight reverb with organic feel.",
+      "motion_type": "static",
+      "movement_str": "left_front!medium.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    },
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Very_Large/static/Crash_0024/(Beautiful Huge Hall 01)left_front!medium.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the left_front at a distant medium , in reverb like Vast reverb with long, smooth decay.",
+      "motion_type": "static",
+      "movement_str": "left_front!medium.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    },
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Large/static/Crash_0024/(Distant Focus)right!far.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the right at a distant far , in reverb like Natural decay creating a sense of remoteness.",
+      "motion_type": "static",
+      "movement_str": "right!far.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    },
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Medium/static/Crash_0024/(Spacious Hall)right!far.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the right at a distant far , in reverb like Open hall with moderate sound reflections.",
+      "motion_type": "static",
+      "movement_str": "right!far.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    },
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Small/static/Crash_0024/(small dark hall)right!far.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the right at a distant far , in reverb like Tight, confined space with subtle echoes.",
+      "motion_type": "static",
+      "movement_str": "right!far.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    },
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Very_Large/static/Crash_0024/(Skyrise Plate)right!far.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the right at a distant far , in reverb like Grand reverberation with sharp metallic notes.",
+      "motion_type": "static",
+      "movement_str": "right!far.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    },
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Large/static/Crash_0024/(Distant Focus)left_front!far.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the left_front at a distant far , in reverb like Natural decay creating a sense of remoteness.",
+      "motion_type": "static",
+      "movement_str": "left_front!far.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    },
+    {
+      "id": "my_audio",
+      "path": "/dky_text2audio/reverb/test/Medium/static/Crash_0024/(inside plate)left_front!far.wav",
+      "prompt": "a sound of Crash Metal Tumbling Down On Debris And Pavement, coming from the left_front at a distant far , in reverb like Compact, clear plate reverb with warmth.",
+      "motion_type": "static",
+      "movement_str": "left_front!far.wav",
+      "start_points": [
+        40,
+        240040
+      ],
+      "end_points": [
+        107476,
+        347476
+      ]
+    }
+  ],
+  "random_crop": false
+}
