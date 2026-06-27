@@ -1,6 +1,16 @@
 # Spatial Audio Generation
 
+[![Project Page](https://img.shields.io/badge/Project%20Page-Open%20Site-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://gekiii996.github.io/FoleyDesigner/)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.05731)
+[![Licence](https://img.shields.io/badge/Licence-Repo%20Entry-6e7781?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gekiii996/FoleyDesigner-code)
+
 给定音源的方位（左/前/右）和距离（近/中/远），以及在音频时间轴上的起止采样点，模型能生成与之匹配的空间化音频。
+
+## Links
+
+- Project page: https://gekiii996.github.io/FoleyDesigner/
+- Paper: https://arxiv.org/abs/2604.05731
+- Licence: repository entry on GitHub
 
 ---
 
